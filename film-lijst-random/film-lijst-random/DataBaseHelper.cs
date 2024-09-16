@@ -29,11 +29,8 @@ internal class DataBaseHelper
                 MySqlDataReader reader = command.ExecuteReader();
                 while (reader.Read())
                 {
-                    var id = reader["film_id"].ToString();
-                    var title = reader["title"].ToString();
-                    var description = reader["description"].ToString();
-                    var rating = reader["rating"].ToString();
-                    FilmLijst.Add(Tuple.Create(id, title, description, rating));
+                    // Add the film to the list of films with the title, description and rating of the film
+                    FilmLijst.Add(new Tuple<string, string, string, string>(reader["film_id"].ToString(), reader["title"].ToString(), reader["description"].ToString(), reader["rating"].ToString()));
                 }
                 reader.Close();
             }

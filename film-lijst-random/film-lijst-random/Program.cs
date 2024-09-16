@@ -18,6 +18,10 @@ namespace film_lijst_random
             DataBaseHelper dbHelper = new DataBaseHelper(ConnectionString);
             List<Tuple<string, string, string, string>> films = dbHelper.GetFilm();
 
+            // 3 random films instead of all the films
+            Random random = new Random();
+            films = films.OrderBy(x => random.Next()).Take(3).ToList();
+
             foreach (var film in films)
             {
                 // Print each film to the console
