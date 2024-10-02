@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samuel\\OneDrive - COG\\Documenten\\GitHub\\films-uit-database\\film-lijst-random\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4672DA6F-A716-41DF-A7E6-7A915EFA6E8E}|film-lijst-random\\film-lijst-random.csproj|c:\\users\\samuel\\onedrive - cog\\documenten\\github\\films-uit-database\\film-lijst-random\\film-lijst-random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4672DA6F-A716-41DF-A7E6-7A915EFA6E8E}|film-lijst-random\\film-lijst-random.csproj|solutionrelative:film-lijst-random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7E243B-2941-495A-9B76-CA08BA63D4F4}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\samuel\\onedrive - cog\\documenten\\github\\films-uit-database\\film-lijst-random\\databaselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7E243B-2941-495A-9B76-CA08BA63D4F4}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\samuel\\OneDrive - COG\\Documenten\\GitHub\\films-uit-database\\film-lijst-random\\DatabaseLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\samuel\\OneDrive - COG\\Documenten\\GitHub\\films-uit-database\\film-lijst-random\\DatabaseLibrary\\Class1.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:00:54.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samuel\\OneDrive - COG\\Documenten\\GitHub\\films-uit-database\\film-lijst-random\\film-lijst-random\\Program.cs",
+              "RelativeDocumentMoniker": "film-lijst-random\\Program.cs",
+              "ToolTip": "C:\\Users\\samuel\\OneDrive - COG\\Documenten\\GitHub\\films-uit-database\\film-lijst-random\\film-lijst-random\\Program.cs",
+              "RelativeToolTip": "film-lijst-random\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:24:53.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

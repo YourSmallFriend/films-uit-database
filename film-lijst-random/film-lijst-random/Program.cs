@@ -18,16 +18,25 @@ namespace film_lijst_random
             DataBaseHelper dbHelper = new DataBaseHelper(ConnectionString);
             List<Tuple<string, string, string, string>> films = dbHelper.GetFilm();
 
-            // 3 random films instead of all the films
-            Random random = new Random();
-            films = films.OrderBy(x => random.Next()).Take(3).ToList();
 
-            foreach (var film in films)
+            //maak een search string
+            Console.WriteLine("Geef een zoekterm op:");
+            string search = Console.ReadLine().ToUpper();
+
+            //zoek naar films die de zoekterm bevatten
+            List<Tuple<string, string, string, string>> searchFilms = films.Where(film => film.Item2.Contains(search)).ToList();
+
+            //print alle films die de zoekterm bevatten
+            foreach (var film in searchFilms)
             {
-                // Print each film to the console
-                Console.WriteLine($"film_id: {film.Item1}\nTitle: {film.Item2}\nDescription: {film.Item3}\nRating: {film.Item4}\n");
+                Console.WriteLine($"Film ID: {film.Item1}");
+                Console.WriteLine($"Title: {film.Item2}");
+                Console.WriteLine($"Description: {film.Item3}");
+                Console.WriteLine($"Rating: {film.Item4}");
+                Console.WriteLine();
             }
             Console.ReadLine();
         }
+
     }
 }

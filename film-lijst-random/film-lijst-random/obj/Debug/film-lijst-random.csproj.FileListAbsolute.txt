@@ -75,6 +75,9 @@ C:\Users\samuel\OneDrive - COG\Documenten\GitHub\films-uit-database\film-lijst-r
 C:\Users\samuel\OneDrive - COG\Documenten\GitHub\films-uit-database\film-lijst-random\film-lijst-random\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\samuel\OneDrive - COG\Documenten\GitHub\films-uit-database\film-lijst-random\film-lijst-random\obj\Debug\film-lijst-random.csproj.AssemblyReference.cache
 C:\Users\samuel\OneDrive - COG\Documenten\GitHub\films-uit-database\film-lijst-random\film-lijst-random\obj\Debug\film-lijst-random.csproj.CoreCompileInputs.cache
-C:\Users\samuel\OneDrive - COG\Documenten\GitHub\films-uit-database\film-lijst-random\film-lijst-random\obj\Debug\film-lijst-random.csproj.CopyComplete
 C:\Users\samuel\OneDrive - COG\Documenten\GitHub\films-uit-database\film-lijst-random\film-lijst-random\obj\Debug\film-lijst-random.exe
 C:\Users\samuel\OneDrive - COG\Documenten\GitHub\films-uit-database\film-lijst-random\film-lijst-random\obj\Debug\film-lijst-random.pdb
+C:\Users\samuel\OneDrive - COG\Documenten\GitHub\films-uit-database\film-lijst-random\film-lijst-random\obj\Debug\film-lij.B3BE5D4D.Up2Date
+C:\Users\samuel\OneDrive - COG\Documenten\GitHub\films-uit-database\film-lijst-random\film-lijst-random\bin\Debug\DatabaseLibrary.dll
+C:\Users\samuel\OneDrive - COG\Documenten\GitHub\films-uit-database\film-lijst-random\film-lijst-random\bin\Debug\DatabaseLibrary.pdb
+C:\Users\samuel\OneDrive - COG\Documenten\GitHub\films-uit-database\film-lijst-random\film-lijst-random\bin\Debug\DatabaseLibrary.dll.config
