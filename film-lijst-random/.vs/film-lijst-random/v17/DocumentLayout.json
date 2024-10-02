@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{4672DA6F-A716-41DF-A7E6-7A915EFA6E8E}|film-lijst-random\\film-lijst-random.csproj|solutionrelative:film-lijst-random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E7E243B-2941-495A-9B76-CA08BA63D4F4}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\samuel\\onedrive - cog\\documenten\\github\\films-uit-database\\film-lijst-random\\databaselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E7E243B-2941-495A-9B76-CA08BA63D4F4}|DatabaseLibrary\\DatabaseLibrary.csproj|C:\\Users\\samuel\\OneDrive - COG\\Documenten\\GitHub\\films-uit-database\\film-lijst-random\\databaselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E7E243B-2941-495A-9B76-CA08BA63D4F4}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "DatabaseLibrary\\Class1.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T11:00:54.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T11:00:54.932Z"
             },
             {
               "$type": "Document",
