@@ -39,7 +39,25 @@ public class DataBaseHelper
                 Console.WriteLine("Error: " + ex.Message);
             }
         }
-
         return FilmLijst;
+    }
+    // maak een functie om een film te verwijderen uit de database
+    public void DeleteFilm(string filmId)
+    {
+        using (MySqlConnection connection = new MySqlConnection(ConnectionString))
+        {
+            string query = $"DELETE FROM `film` WHERE film_id = {filmId}";
+            MySqlCommand command = new MySqlCommand(query, connection);
+
+            try
+            {
+                connection.Open();
+                command.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error: " + ex.Message);
+            }
+        }
     }
 }
