@@ -1,12 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
-using film_lijst_random;
-using MySql.Data;
-using MySql.Data.MySqlClient;
+
 
 namespace film_lijst_random
 {
